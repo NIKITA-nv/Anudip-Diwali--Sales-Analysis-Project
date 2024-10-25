@@ -7,26 +7,38 @@ A Diwali Sales Analysis is a detailed examination of sales data during the Diwal
 Object :
 
 •	Maximize Sales Volume: Diwali sales are an opportunity to drive high-volume sales, as consumers tend to purchase more during the festival season.
+
 •	Attract New Customers: Festive promotions attract first-time buyers, allowing businesses to expand their customer base.
+
 •	Inventory Management: By analyzing product demand from previous Diwali seasons, businesses can manage stock more efficiently, ensuring popular products are well-stocked and avoiding overstocking less popular items.
+
 •	Enhance Shopping Convenience: By optimizing online platforms, offering fast deliveries, easy payment options, and efficient return policies, businesses aim to improve customer satisfaction and create a seamless shopping experience.
+
 •	Develop Predictive Insights for Future Campaigns: The insights gathered during Diwali sales guide future marketing, inventory, and pricing strategies, as well as set the stage for upcoming festive or seasonal sales.
 
 Task List :
 
 The project will involve the following task :
 •	Data Exploration : Understanding the dataset , including the features and target variable.
+
 •	Data Preprocessing : Cleaning the dataset by handling missing values , and normalizing /standardizing the data.
+
 •	Data Visualization : Using plot and graph to visualize the relationship between feature and wine quality.
+
 •	Interpretation of Result : Analyzing the output of the models and drawing conclusion.
+
 •	Reporting : Documenting the finding and preparing a final report.
 
 Tools and Technologies :
 
-  The Project will utilize the following tools and technologies : 
+  The Project will utilize the following tools and technologies :
+  
 •	Programming Language : Python
+
 •	Libraries : Pandas , NumPy ,  matplotlib , Seaborn
+
 •	IDE : Jupyter Notebook
+
 •	Data Source : GitHub Repository Dataset("C:\Users\Nikit\Downloads\Python_Diwali_Sales_Analysis-main\Python_Diwali_Sales_Analysis-main\Diwali Sales Data.csv")
 
 Conclusion : 

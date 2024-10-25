@@ -23,7 +23,7 @@ The project will involve the following task :
 
 Tools and Technologies :
 
-                The Project will utilize the following tools and technologies : 
+  The Project will utilize the following tools and technologies : 
 •	Programming Language : Python
 •	Libraries : Pandas , NumPy ,  matplotlib , Seaborn
 •	IDE : Jupyter Notebook
